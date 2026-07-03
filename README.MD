@@ -19,7 +19,7 @@ Gradio
 
 ---
 
-### 5. Run Locally
+ Run Locally
 
 ```bash
 python app.py
