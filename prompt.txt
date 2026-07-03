@@ -1,0 +1,1 @@
+Act as an experienced Python developer. Help me build a simple chatbot using the Google Gemini API. Provide the complete project structure, source code, setup instructions for running locally on Windows, and guidance on keeping the API key secure. Explain everything step-by-step for a beginner.
